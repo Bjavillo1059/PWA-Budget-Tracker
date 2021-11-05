@@ -1,5 +1,6 @@
 const FILES_TO_CACHE = [
     "/",
+    "manifest.webmanifest",
     "index.html",
     "styles.css",
     "index.js",
