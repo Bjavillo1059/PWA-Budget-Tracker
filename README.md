@@ -36,4 +36,4 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Contact Info
 
-please contact me at [brandonjavillo@gmail.com](brandonjavillo@gmail.com)
+please contact me at [brandonjavillo@gmail.com](mail.google.com)
