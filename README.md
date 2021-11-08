@@ -14,12 +14,6 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
-## User Story
-
-AS AN avid traveller
-I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
-SO THAT my account balance is accurate when I am traveling
-
 ## Technology used
 
 - HTML
@@ -32,13 +26,30 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Deployment
 
-[Budget-Tracker deployed site](https://github.com/Bjavillo1059/PWA-Budget-Tracker)
+[Budget-Tracker deployed site](https://bjavillo-pwa-budget-tracker.herokuapp.com/)
 
-<img src="" alt="pwa-budget-tracker" />
+<img src="./public/img/PWA tracker snip.PNG" alt="pwa-budget-tracker" />
 
 ## Contact Info
 
 please contact me at [brandonjavillo@gmail.com](mail.google.com)
 
+## User Story
+
+AS AN avid traveller
+I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
+SO THAT my account balance is accurate when I am traveling
+
 ## Process
 
+When a User opens the budget tracker, the browser will display A total amount of the budget you are working with.  A User can add or subtract from the total.  The transactions that are made are saved to a list, the transactions are also graphed and tracked by date.
+
+- Total amount
+    - amount will start at 0 until a transaction is added
+    - example:  paycheck ($5000) + Add Funds
+
+- Add & Subtract transactions
+    - add a name of your transaction
+    - include the amount of the transaction
+
+- 
