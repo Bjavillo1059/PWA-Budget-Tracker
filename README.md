@@ -52,4 +52,14 @@ When a User opens the budget tracker, the browser will display A total amount of
     - add a name of your transaction
     - include the amount of the transaction
 
-- 
+- Transaction List and graph
+    - transactions are added to a list to track for future budgeting etc.
+    - graph displays and shows analysis saved per day transaction was added
+
+- Dev tools
+    - user can open browser dev tools and see that application has:
+      - working service worker
+      - IndexedDB is created
+      - cookies
+      - Cache Storage created for static and data cache
+          - when going offline cache saves until going back online and updating on refresh
